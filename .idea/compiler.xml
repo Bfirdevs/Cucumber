@@ -11,5 +11,8 @@
         <module name="BriteERP" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="first-mvn-project" target="10" />
+    </bytecodeTargetLevel>
   </component>
 </project>
