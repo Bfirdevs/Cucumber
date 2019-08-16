@@ -62,4 +62,21 @@ public class LoginPage {
     public void goToLandingPage(){
         Driver.getDriver().get(ConfigurationReader.getProperty("url"+ConfigurationReader.getProperty("environment")));
     }
+    public void login(String role) {
+        String username = "";
+        String password = "";
+        if (role.equalsIgnoreCase("driver")) {
+            username = ConfigurationReader.getProperty("driverusername");
+            password = ConfigurationReader.getProperty("driverpassword");
+        } else if (role.equalsIgnoreCase("store manager")) {
+            username = ConfigurationReader.getProperty("storemanagerusername");
+            password = ConfigurationReader.getProperty("storemanagerpassword");
+        } else if (role.equalsIgnoreCase("sales manager")) {
+            username = ConfigurationReader.getProperty("salesmanagerusername");
+            password = ConfigurationReader.getProperty("salesmanagerpassword");
+        }
+        userNameElement.sendKeys(username);
+        passwordElement.sendKeys(password);
+        loginButtonElement.click();
+    }
 }
