@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring2019TestNGFrameworkFinal" />
         <module name="Cucumber" />
-        <module name="BriteERP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BriteERP" target="10" />
       <module name="first-mvn-project" target="10" />
+      <module name="Spring2019TestNGFrameworkFinal" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

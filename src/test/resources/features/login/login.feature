@@ -17,7 +17,6 @@ Feature: Login
     And user verifies that "Quick Launchpad" page name is displayed
   @driver
   Scenario: Login as a driver
-    Given user is on the landing page
     Then user logs in as a driver
     And user verifies that "Quick Launchpad" page name is displayed
 

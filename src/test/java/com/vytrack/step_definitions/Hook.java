@@ -7,11 +7,15 @@ import cucumber.api.java.Before;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
+import java.util.concurrent.TimeUnit;
+
 public class Hook {
     @Before
     public void setup(Scenario scenario){
         System.out.println(scenario.getName());
         System.out.println("Before");
+        Driver.getDriver().manage().window().maximize();
+        Driver.getDriver().manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
     /*
     @Before(value="@storemanager", order =1)

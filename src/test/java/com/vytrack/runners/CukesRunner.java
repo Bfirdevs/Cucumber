@@ -9,8 +9,10 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json",
                 "html:target/default-cucumber-reports"
         },
-       tags = {"@storemanager"},
-        features = {"src/test/resources/features" //to specify where are the features
+      //tags = {"@navigation"},
+        // tags={~@navigation}, // will ignore nevagation test
+        features = {"src/test/resources/features",
+           //     "src/test/resources/features/login"//to specify where are the features
         },
         //feature contains scenarios
         //every scenario is like a test
