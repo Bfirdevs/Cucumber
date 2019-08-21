@@ -1,5 +1,6 @@
 package com.vytrack.step_definitions;
 
+import com.vytrack.utilities.ConfigurationReader;
 import com.vytrack.utilities.Driver;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
@@ -16,6 +17,7 @@ public class Hook {
         System.out.println("Before");
         Driver.getDriver().manage().window().maximize();
         Driver.getDriver().manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        Driver.getDriver().get(ConfigurationReader.getProperty("url" + ConfigurationReader.getProperty("environment")));
     }
     /*
     @Before(value="@storemanager", order =1)

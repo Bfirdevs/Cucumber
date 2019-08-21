@@ -219,4 +219,8 @@ public class CalendarEventsPage extends BasePage {
     public String getEndTime() {
         return endTime.getAttribute("value");
     }
+    public List<String> getTableHeaders() {
+        waitUntilLoaderScreenDisappear();
+        return BrowserUtils.getElementsText(headers);
+    }
 }
