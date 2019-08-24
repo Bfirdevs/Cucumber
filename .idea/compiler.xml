@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.cybertek" />
         <module name="Cucumber" />
+        <module name="vytrack-automation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

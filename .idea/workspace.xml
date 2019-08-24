@@ -2,22 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f63ccf2e-0330-4ec0-9fc3-5633f36e7e65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/CalendarEventsStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/activities/calendar_events/AllCalendarEvent.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicles/CreateCar.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/SampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/activities/StartEndTimeAutoAdjust.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/activites/CalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/activites/CalendarEventsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/fleet/VehiclesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/fleet/VehiclesPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/Hook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/utilities/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/VehiclesStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/VehiclesStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicles/Vehicles.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicles/Vehicles.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/login/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comcybertek/com.cybertek.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comcybertek/src/test/java/Day4/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/../comcybertek/src/test/java/Day4/DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/Pages/Activities/CalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/Pages/Activities/CalendarEventsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/activities/CalendarEventsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/activities/CalendarEventsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/activities/DateAndTimeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/activities/StartEndDateAutoAdjust.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/login_navigation/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/login_navigation/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/login_navigation/LoginTestswithLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/login_navigation/LoginTestswithLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/login_navigation/PageAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/components/login_navigation/PageAccessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/smoke_tests/MenuOptionTestVersion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/tests/smoke_tests/MenuOptionTestVersion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vytrackAutomation/src/test/java/com/vytrack/utilities/TestBase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../Spring2019FinalTestNGFramework/target/" />
     <ignored path="$PROJECT_DIR$/../BriteERP/target/" />
     <ignored path="$PROJECT_DIR$/../first-mvn-project/target/" />
+    <ignored path="$PROJECT_DIR$/../comcybertek/target/" />
+    <ignored path="$PROJECT_DIR$/../vytrackAutomation/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,53 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-97">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/activities/calendar_events/AllCalendarEvent.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/login/login.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefinitions.java">
+        <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -95,7 +71,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../comcybertek" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,9 +89,16 @@
         <option value="$PROJECT_DIR$/src/test/resources/features/activities/calendar_events/AllCalendarEvent.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/vytrack/pages/activites/CalendarEventsPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/login/login.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicles/Vehicles.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vytrack/pages/fleet/VehiclesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicles/CreateCar.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/VehiclesStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/login/login.feature" />
+        <option value="$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/SampleTest.java" />
+        <option value="$PROJECT_DIR$/../comcybertek/src/test/java/Day4/DropDown.java" />
+        <option value="$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/Test2.java" />
       </list>
     </option>
   </component>
@@ -127,8 +110,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1599" />
-    <option name="y" value="134" />
+    <option name="x" value="1423" />
+    <option name="y" value="150" />
     <option name="width" value="1291" />
     <option name="height" value="490" />
   </component>
@@ -139,93 +122,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="vytrack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="vytrack" type="462c0819:PsiDirectoryNode" />
-              <item name="step_definitions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cucumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="topmenu" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vytrackAutomation/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -299,38 +203,45 @@
       <option name="project" value="LOCAL" />
       <updated>1566353017808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Features File">
+      <created>1566361890797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566361890797</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CukesRunner - 2019.08.20 at 21h 23m 39s.xml">
+    <history-entry file="CukesRunner - 2019.08.21 at 21h 22m 30s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 21h 47m 36s.xml">
+    <history-entry file="CukesRunner - 2019.08.21 at 21h 24m 46s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 21h 50m 24s.xml">
+    <history-entry file="CukesRunner - 2019.08.21 at 21h 26m 02s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 21h 54m 48s.xml">
+    <history-entry file="CukesRunner - 2019.08.21 at 21h 26m 58s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 21h 58m 19s.xml">
+    <history-entry file="CukesRunner - 2019.08.21 at 21h 32m 45s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 22h 14m 37s.xml">
+    <history-entry file="CukesRunner - 2019.08.21 at 21h 52m 54s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 23h 25m 14s.xml">
+    <history-entry file="CukesRunner - 2019.08.22 at 17h 57m 39s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 23h 25m 52s.xml">
+    <history-entry file="CukesRunner - 2019.08.22 at 20h 15m 49s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 23h 26m 37s.xml">
+    <history-entry file="CukesRunner - 2019.08.22 at 20h 22m 09s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CukesRunner - 2019.08.20 at 23h 28m 50s.xml">
+    <history-entry file="CukesRunner - 2019.08.22 at 20h 28m 37s.xml">
       <configuration name="CukesRunner" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -338,7 +249,7 @@
     <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.295625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.243125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,7 +258,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32882273" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23815967" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.040595397" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -355,7 +266,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.37618405" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.07848444" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,72 +282,7 @@
     <MESSAGE value="Added Features File" />
     <option name="LAST_COMMIT_MESSAGE" value="Added Features File" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/src/test/java/com/vytrack/tests/components/login_navigation/LoginTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/src/test/java/com/vytrack/utilities/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/src/test/java/com/vytrack/utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1560">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/src/test/java/com/vytrack/utilities/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/runner_with_parameters.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/smoketest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/src/test/java/com/vytrack/utilities/ConfigurationReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48">
@@ -460,16 +306,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Spring2019FinalTestNGFramework/testngrunner.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/utilities/BrowserUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="300" column="44" selection-start-line="300" selection-start-column="44" selection-end-line="300" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/utilities/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -542,23 +378,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/topmenu/navigationmenu.feature">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/Hook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="19" column="120" selection-start-line="19" selection-start-column="120" selection-end-line="19" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/CalendarEventsStepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -576,9 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/cucumber-html-reports/overview-failures.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -586,24 +406,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/activities/calendar_events/AllCalendarEvent.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/pages/fleet/VehiclesPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="432">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1935#1936#0" expanded="true" />
+            <element signature="e#1953#1954#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/login/login.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/CalendarEventsStepDefinitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="312">
+          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2068#2069#0" expanded="true" />
+            <element signature="e#2113#2114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/topmenu/navigationmenu.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicles/Vehicles.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicle_Fuel_Logs/VehicleFuelLogs.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicle_Fuel_Logs/CreateVehicleFuelLogs.Feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/activities/calendar_events/AllCalendarEvent.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Fleet/Vehicles/CreateCar.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-reports/overview-features.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-reports/overview-failures.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/default-cucumber-reports/embedded0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber-html-reports/overview-steps.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/default-cucumber-reports/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/runners/CukesRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="312">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -612,18 +506,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/configuration.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="624">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/LoginStepDefinitions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/login/login.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        <state relative-caret-position="864">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/utilities/BrowserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="59" column="64" selection-start-line="59" selection-start-column="64" selection-end-line="59" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/CRMRevenueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/VehiclesStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/SampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/Day10_actions_jsexecutor/JsExecutorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/Day7/CreateButtonTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/Day4/DropDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/Projects/AutomationPracticeWbsite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comcybertek/src/test/java/BriteERP/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
