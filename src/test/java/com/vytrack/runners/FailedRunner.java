@@ -3,6 +3,7 @@ package com.vytrack.runners;
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
+
 @RunWith(Cucumber.class)
 @CucumberOptions(
         plugin = {
@@ -10,10 +11,10 @@ import org.junit.runner.RunWith;
                 "html:target/default-cucumber-reports",
                 "rerun:target/rerun.txt" // this line is for failed tests
         },
-      tags = {"@HrAppDB"},
-        // tags={~@navigation}, // will ignore nevagation test
-        features = {"src/test/resources/features/HrApp",
-           //     "src/test/resources/HrApp/login"//to specify where are the HrApp
+
+
+        features = {"@target/rerun.txt",
+                //    this shows the path for failed tests
         },
         //feature contains scenarios
         //every scenario is like a test
@@ -22,8 +23,6 @@ import org.junit.runner.RunWith;
         //dry run - to generate step definitions automatically
         //you will see them in the console output
         dryRun = false
-
 )
-public class CukesRunner {
-
+public class FailedRunner {
 }
