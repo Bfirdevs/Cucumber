@@ -1,4 +1,4 @@
-package com.vytrack.tests;
+package com.vytrack.API_tests;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;

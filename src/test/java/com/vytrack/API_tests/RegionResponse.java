@@ -1,4 +1,4 @@
-package com.vytrack.tests;
+package com.vytrack.API_tests;
 
 import java.util.ArrayList;
 import java.util.Map;

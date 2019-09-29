@@ -1,6 +1,6 @@
-package com.vytrack.tests;
+package com.vytrack.API_tests;
 
-public class CountryResponse {
+public class Country {
     private String country_id ;
     private String country_name;
     private  Integer region_id;

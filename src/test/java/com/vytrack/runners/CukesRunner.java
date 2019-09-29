@@ -8,11 +8,11 @@ import org.junit.runner.RunWith;
         plugin = {
                 "json:target/cucumber.json",
                 "html:target/default-cucumber-reports",
-                "rerun:target/rerun.txt" // this line is for failed tests
+                "rerun:target/rerun.txt" // this line is for failed API_tests
         },
-      tags = {"@HrAppDB"},
+      tags = {"@ApiPost"},
         // tags={~@navigation}, // will ignore nevagation test
-        features = {"src/test/resources/features/HrApp",
+        features = {"src/test/resources/features/API",
            //     "src/test/resources/HrApp/login"//to specify where are the HrApp
         },
         //feature contains scenarios

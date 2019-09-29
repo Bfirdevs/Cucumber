@@ -1,11 +1,10 @@
-package com.vytrack.tests;
+package com.vytrack.API_tests;
 
 import com.vytrack.utilities.ConfigurationReader;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.Test;
 
-import java.lang.reflect.Type;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
@@ -80,6 +79,7 @@ public class Day4_PostRequest {
      */
     @Test
     public void postCountry(){
+        // check this test later did not work
         String url = ConfigurationReader.getProperty("hrApp.baseUrl")+ "countries/";
         Country country = new Country();
         country.setCountry_id("C");
@@ -89,7 +89,7 @@ public class Day4_PostRequest {
                 .and().contentType(ContentType.JSON)
                 .and().body(country)
                 .when().post(url);
-       //  assertEquals(201, response.getStatusCode());
+       assertEquals(201, response.getStatusCode());
 
         CountryResponse countryResponse = response.body().as( CountryResponse.class);
          assertEquals(countryResponse.getRegion_id(), country.getRegion_id());
